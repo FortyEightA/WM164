@@ -1,9 +1,0 @@
-double - a data type used for double floating points - 8 bytes
-cout - short for console output. Used for outputting values to the console
-cin - short for console input. Used for taking input from the user, through the console.
-endl - short for end line. Used to insert a new line.
-<< - Bitwise operator. Binary shift left.
->> - Bitwide operator. Binary shift right.
-; - A part of the basic syntax of C++. It is sometimes referred to as a punctuator.
-
-The program will not run without a return value because the system is expecting an integer return value from the main function as specified by the data type int.
