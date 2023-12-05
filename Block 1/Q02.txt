@@ -1,0 +1,4 @@
+The standard cmd that can be easily accessed on windows is relatively limited and operates on a keystroke -> shell system where,
+the users keystrokes are sent to the shell to let it process them and understand what the user wants.
+Powershell technology allows the users keystrokes to be packed as rich objects that are passed along, allowing for much more manipulation
+and query ability.
